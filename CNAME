@@ -1,1 +1,5 @@
-avaneesh.mobilenet-realtime-identification.com
+$ dig WWW.AVANEESH.REALTIME-MOBILENET-IDENTIFICATION.COM +nostats +nocomments +nocmd
+    > ;WWW.AVANEESH.REALTIME-MOBILENET-IDENTIFICATION.COM.                     IN      A
+    > WWW.AVANEESH.REALTIME-MOBILENET-IDENTIFICATION.COM.              3592    IN      CNAME   gamer9311.github.io.
+    > gamer311.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
+    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
